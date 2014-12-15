@@ -8,7 +8,7 @@ There are a number of solutions available for creating a web site with such thin
 
 ##How to contribute
 
-[Go with the Flow](Github_flow.png)
+![Go with the Flow](Github_Flow.png)
 
 We have a suggested workflow for contributing to this and other git based projects. Try it out!
 

@@ -17,12 +17,14 @@ We have a suggested workflow for contributing to this and other git based projec
 	- `git remote -v` : this will show you your current remote repositories. Your forked version of the repo should be "origin".
 	- `git remote add upstream https://github.com/trcollinson/ContainerSiteApi.git` : this will add the main repo as a new remote called upsteam.
 	- `git remote -v` : you will now see 4 lines that look like the following:
+
 		```
 		origin  git@github.com:<your github username>/ContainerSiteApi.git (fetch)
 		origin  git@github.com:<your github username>/ContainerSiteApi.git (push)
 		upstream        git@github.com:trcollinson/ContainerSiteApi.git (fetch)
 		upstream        git@github.com:trcollinson/ContainerSiteApi.git (push)
 		```
+
 - Checkout the development branch to start working on a change, bug, or feature you would like to see.
 	- `git checkout development`
 - Make sure to check for changes from the main project before you start development.

@@ -8,6 +8,8 @@ There are a number of solutions available for creating a web site with such thin
 
 ##How to contribute
 
+[Go with the Flow](Github_flow.png)
+
 We have a suggested workflow for contributing to this and other git based projects. Try it out!
 
 - First use Github to Fork this project. In the upper right hand corner, click "Fork".
@@ -35,7 +37,7 @@ We have a suggested workflow for contributing to this and other git based projec
 	- `git commit -m "your message here"` : to commit the changes. Make sure your message is descriptive.
 - Don't forget to check for changes from the main project before pushing your changes up.
 	- `git pull upstream development` : again, this pulls changes from the main project down to your local. Make sure to fix any merge conflicts before moving to the next step. Feel free to ask for help if you need it!
-- Now push to your fork. Do not try to commit directly to the main prooject.
+- Now push to your fork. Do not try to commit directly to the main project.
 	- `git push origin development` : this pushes your changes to your forked repo on github.
 - Finally, make a pull request to add them to the main project.
 	- Go to your forked repo on github and click on "Pull Requests" in the right hand menu. This will give you an option to make a pull request to the main project.
